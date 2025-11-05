@@ -1,0 +1,14 @@
+C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\bin\Debug\net9.0\ClueArraysForLoopAndIfStatements.exe
+C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\bin\Debug\net9.0\ClueArraysForLoopAndIfStatements.deps.json
+C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\bin\Debug\net9.0\ClueArraysForLoopAndIfStatements.runtimeconfig.json
+C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\bin\Debug\net9.0\ClueArraysForLoopAndIfStatements.dll
+C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\bin\Debug\net9.0\ClueArraysForLoopAndIfStatements.pdb
+C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\obj\Debug\net9.0\ClueArraysForLoopAndIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\obj\Debug\net9.0\ClueArraysForLoopAndIfStatements.AssemblyInfoInputs.cache
+C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\obj\Debug\net9.0\ClueArraysForLoopAndIfStatements.AssemblyInfo.cs
+C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\obj\Debug\net9.0\ClueArraysForLoopAndIfStatements.csproj.CoreCompileInputs.cache
+C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\obj\Debug\net9.0\ClueArraysForLoopAndIfStatements.dll
+C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\obj\Debug\net9.0\refint\ClueArraysForLoopAndIfStatements.dll
+C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\obj\Debug\net9.0\ClueArraysForLoopAndIfStatements.pdb
+C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\obj\Debug\net9.0\ClueArraysForLoopAndIfStatements.genruntimeconfig.cache
+C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\obj\Debug\net9.0\ref\ClueArraysForLoopAndIfStatements.dll

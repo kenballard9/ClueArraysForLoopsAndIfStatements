@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClueArraysForLoopAndIfStatements")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25bab4a3e69a10089439b320811fa45298492923")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClueArraysForLoopAndIfStatements")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClueArraysForLoopAndIfStatements")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\obj\Debug\net
 C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\obj\Debug\net9.0\ClueArraysForLoopAndIfStatements.pdb
 C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\obj\Debug\net9.0\ClueArraysForLoopAndIfStatements.genruntimeconfig.cache
 C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\obj\Debug\net9.0\ref\ClueArraysForLoopAndIfStatements.dll
+C:\Users\kenba\Documents\Projects\ClueArraysForLoopAndIfStatements\obj\Debug\net9.0\ClueArraysForLoopAndIfStatements.sourcelink.json

@@ -115,7 +115,7 @@
 
         for (int i = 0; i < weapons.Length; i++)
         {
-            Console.WriteLine("Weapon: " + weapons[i]);
+            Console.WriteLine("Possible Weapon: " + weapons[i]);
         }
 
         Random randomWeapon = new Random();
@@ -155,6 +155,6 @@
 
         Console.WriteLine();
 
-        Console.WriteLine(culprit + " did it in the " + murderRoom + " with the " + murderWeapon + "!");
+        Console.WriteLine("It was " + culprit + " in the " + murderRoom + " with the " + murderWeapon + "!");
     }
 }
